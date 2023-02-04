@@ -1,0 +1,25 @@
+header h1 {
+    font-size: 40pt;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    background: url("bg.jpg");
+    background-color: #DA70D6;
+}
+nav {
+    font-size: 14pt;
+    width: 150px;
+    float: left;
+    color: #4169E1;
+    background-color: transparent;
+
+}
+nav a {
+    display: block;
+    margin: 10px 0px;
+
+}
+section {
+    margin-left: 170px;
+    background-color: #DCDCDC;
+}
