@@ -15,4 +15,4 @@ email to: siergej@hotmail.com
 
 #
 
-![My Skills](https://skillicons.dev/icons?i=python,django,sqlite)
+![My Skills](https://skillicons.dev/icons?i=python,django,css,sqlite)
