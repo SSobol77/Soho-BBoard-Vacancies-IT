@@ -1,4 +1,4 @@
-Soho BBoard-Vacancies-IT
+# Soho BBoard-Vacancies-IT
 
 A web service that searches for jobs and vacancies in the IT field is a platform that helps job seekers find job opportunities in the information technology industry. The service can be accessed through a website or a mobile app and allows users to search for jobs based on various criteria such as job title, location, and skill set.
 
@@ -12,3 +12,7 @@ Web service search for jobs and vacancies in the IT field. Convenient selection 
 Web application developed using Python and Django4 framework.
 
 email to: siergej@hotmail.com
+
+#
+
+![My Skills](https://skillicons.dev/icons?i=python,django,sqlite)
