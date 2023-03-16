@@ -1,6 +1,6 @@
 # Soho BBoard-Vacancies-IT
 
-A web service that searches for jobs and vacancies in the IT field is a platform that helps job seekers find job opportunities in the information technology industry. The service can be accessed through a website or a mobile app and allows users to search for jobs based on various criteria such as job title, location, and skill set.
+Web service that searches for jobs and vacancies in the IT field is a platform that helps job seekers find job opportunities in the information technology industry. The service can be accessed through a website or a mobile app and allows users to search for jobs based on various criteria such as job title, location, and skill set.
 
 The service typically aggregates job postings from various sources, including job boards, company websites, and recruitment agencies, making it a one-stop-shop for job seekers to find IT job opportunities. Users can also create a profile, upload their resume, and apply for jobs directly through the service.
 
